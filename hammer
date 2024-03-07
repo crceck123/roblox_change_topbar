@@ -1,0 +1,3 @@
+local ok = "rbxassetid://7186534535" 
+game.CoreGui.TopBarApp.TopBarFrame.LeftFrame.MenuIcon.Background.Image = ok 
+game.CoreGui.TopBarApp.TopBarFrame.LeftFrame.MenuIcon.Background.Icon.Image = ok
