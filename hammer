@@ -1,2 +1,2 @@
-local ok = "rbxassetid://9605261863" 
+local ok = "rbxassetid://14971234336" 
 game.CoreGui.TopBarApp.TopBarFrame.LeftFrame.MenuIcon.Background.Icon.Image = ok
